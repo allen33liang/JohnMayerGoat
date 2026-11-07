@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+52add75c3affb3337070ccf25c55921c JohnMayerGoat_artefacts/JuceLibraryCode/JohnMayerGoat/PkgInfo
+fe159294cff430e7168ae2298105fa49 JohnMayerGoat_artefacts/JuceLibraryCode/JuceHeader.h
